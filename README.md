@@ -43,7 +43,4 @@ This repository may include work using:
 
 (Tech stack may expand as the project grows.)
 
----
-
-## 📂 Project Structure
 
